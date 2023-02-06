@@ -14,5 +14,4 @@ then
     rm /LOG/* # erase all files in /LOG
     echo "Backup complete!"
 fi
-
 # archive unpack: tar xfvz {archive name}
